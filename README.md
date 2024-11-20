@@ -11,7 +11,8 @@ A cutting-edge web application leveraging AI to perform multilingual speech reco
 - [Contributing](#contributing)  
 - [License](#license)  
 - [Acknowledgments](#acknowledgments)
-  ## About the Project
+  
+## About the Project
 Details about the project...
 
 ## Features
