@@ -57,12 +57,10 @@ Choose a file to transcribe and upload it through the web interface.
 
 View the transcription results once the file is processed.
 
-## Contributing
-How to contribute...
-
 ## License
-License information...
-
+This project is licensed under the MIT License. See the LICENSE file for details.
 ## Acknowledgments
-Special thanks...
+- [OpenAI Whisper](https://openai.com/research/whisper)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Hugging Face](https://huggingface.co/)
 
