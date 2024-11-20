@@ -26,23 +26,36 @@ AI-powered for high transcription accuracy.
 
 ## Technologies Used
 Frontend: HTML, CSS, JavaScript 
-Backend: FastAPI, WebSockets
-AI Model: Whisper (fine-tuned version)
-Other Tools: Python, Hugging Face, Lora, Bitsandbytes
 
-## Getting Started
-Instructions to get started...
+
+Backend: FastAPI, WebSockets
+
+
+AI Model: Whisper (fine-tuned version)
+
+
+Other Tools: Python, Hugging Face, Lora, Bitsandbytes
 
 ### Prerequisites
 Python 3.9+: Ensure that Python is installed. You can download it from python.org.
+
+
 Visual Studio Code: A lightweight and powerful editor with extensions like Python and Prettier. Download it from code.visualstudio.com.
+
+
 Google Colab Pro : Use this for fine-tuning and training the Whisper model, offering enhanced computing resources.
 
-### Installation
-Steps to install the project...
-
 ## Usage
-How to use the application...
+Download the files to your local machine.
+
+
+Launch the application in Visual Studio Code.
+
+
+Choose a file to transcribe and upload it through the web interface.
+
+
+View the transcription results once the file is processed.
 
 ## Contributing
 How to contribute...
