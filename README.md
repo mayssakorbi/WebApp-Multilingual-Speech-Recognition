@@ -6,9 +6,7 @@ A cutting-edge web application leveraging AI to perform multilingual speech reco
 - [Technologies Used](#technologies-used)  
 - [Getting Started](#getting-started)  
   - [Prerequisites](#prerequisites)  
-  - [Installation](#installation)  
 - [Usage](#usage)  
-- [Contributing](#contributing)  
 - [License](#license)  
 - [Acknowledgments](#acknowledgments)
   
