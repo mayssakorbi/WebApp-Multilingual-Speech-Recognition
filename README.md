@@ -10,4 +10,34 @@ A cutting-edge web application leveraging AI to perform multilingual speech reco
 - [Usage](#usage)  
 - [Contributing](#contributing)  
 - [License](#license)  
-- [Acknowledgments](#acknowledgments)  
+- [Acknowledgments](#acknowledgments)
+  ## About the Project
+Details about the project...
+
+## Features
+List of features...
+
+## Technologies Used
+Technologies and tools used...
+
+## Getting Started
+Instructions to get started...
+
+### Prerequisites
+Software required...
+
+### Installation
+Steps to install the project...
+
+## Usage
+How to use the application...
+
+## Contributing
+How to contribute...
+
+## License
+License information...
+
+## Acknowledgments
+Special thanks...
+
