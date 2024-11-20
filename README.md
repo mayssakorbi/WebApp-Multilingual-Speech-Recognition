@@ -13,19 +13,30 @@ A cutting-edge web application leveraging AI to perform multilingual speech reco
 - [Acknowledgments](#acknowledgments)
   
 ## About the Project
-Details about the project...
+This web application processes uploaded audio files and transcribes spoken language into text, supporting multiple languages. It is designed to provide high accuracy using  Whisper. The app is ideal for generating accessible content, translating recorded meetings, or transcribing multilingual audio files.
+
+
 
 ## Features
-List of features...
+Speech-to-text transcription.
+Supports multiple languages.
+Intuitive and responsive web interface.
+AI-powered for high transcription accuracy.
+
 
 ## Technologies Used
-Technologies and tools used...
+Frontend: HTML, CSS, JavaScript 
+Backend: FastAPI, WebSockets
+AI Model: Whisper (fine-tuned version)
+Other Tools: Python, Hugging Face, Lora, Bitsandbytes
 
 ## Getting Started
 Instructions to get started...
 
 ### Prerequisites
-Software required...
+Python 3.9+: Ensure that Python is installed. You can download it from python.org.
+Visual Studio Code: A lightweight and powerful editor with extensions like Python and Prettier. Download it from code.visualstudio.com.
+Google Colab Pro : Use this for fine-tuning and training the Whisper model, offering enhanced computing resources.
 
 ### Installation
 Steps to install the project...
